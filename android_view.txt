@@ -1,0 +1,4 @@
+android:clickable="true"
+android:background="?attr/selectableItemBackground"   
+
+style="@style/Widget.AppCompat.Button.Colored"

@@ -1,0 +1,5 @@
+adb shell pm clear com.android.vending    //purchase clear
+//sha1 key generate to access google acount in app debug mood
+keytool -list -v -keystore C:\Users\Siyam\.android\debug.keystore -alias androiddebugkey -storep ass android -keypass android
+//this one for releaing
+keytool  -list -v -alias infancyit -keystore C:\Users\Siyam\Desktop\infancy__1_.jks
